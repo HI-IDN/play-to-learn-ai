@@ -1,0 +1,6 @@
+[submodule "learn2ludo"]
+	path = learn2ludo
+	url = git@github.com:HI-IDN/learn2ludo.git
+[submodule "learn2mancala"]
+	path = learn2mancala
+	url = git@github.com:HI-IDN/learn2mancala.git
